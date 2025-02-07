@@ -11,6 +11,9 @@ public class MyClass {
 
         System.out.println("Bu derste branchler islenecek.");
 
+        //techproda degisiklik
+        System.out.println("yeni branch");
+
 
 
 
