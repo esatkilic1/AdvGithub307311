@@ -4,5 +4,9 @@ public class Book {
 
     public String name;
 
+    //yeni bir filed
+
+    public String author;
+
 
 }
